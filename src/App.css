@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.App-canvas {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+
